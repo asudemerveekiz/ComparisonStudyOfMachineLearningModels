@@ -1,5 +1,5 @@
 # ComparisonStudyOfMachineLearningModels
-In this study, 5 different regression models were run on the laptop dataset and the success of each was measured.
+In this study, 5 different machine learning models were run on the laptop dataset and the success of each was measured.
 
 The models used are as follows:
 1) Linear Regression
